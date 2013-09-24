@@ -1,0 +1,7 @@
+﻿#navbar, .navbar-inner {
+	height: 40px;
+}
+.navbar .logo {
+	margin-top: 10px;
+	margin-right: 20px;
+}
